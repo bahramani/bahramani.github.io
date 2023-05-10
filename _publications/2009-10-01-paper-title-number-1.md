@@ -10,4 +10,4 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download here](http://academicpages.github.io/files/paper1.pdf](https://github.com/bahramani/bahramani.github.io/blob/master/files/Bahramani%20Bachelor%20Thesis.pdf)
+[Download here](https://github.com/bahramani/bahramani.github.io/blob/master/files/Bahramani%20Bachelor%20Thesis.pdf)
