@@ -14,7 +14,7 @@ My journey began during the later years of my bachelor's degree in electrical en
 
 In the Birds' Lab, I had the privilege of immersing myself in the captivating world of avian research. I found myself enthralled by the remarkable abilities of zebra finches in vocal learning and communication. Additionally, I gained invaluable hands-on experience in electrophysiology, mastering surgical techniques and recording single-unit activity. To this day, I am proud to contribute to the ongoing research efforts of the Birds' Lab.
 
-Continuing my academic journey, I am currently pursuing a master's degree in electrical engineering at Sharif University. Under the guidance of Dr. Ali Ghazizadeh, my master's thesis focuses on vocal perception in zebra finches, further deepening my understanding of these incredible creatures.
+Continuing my academic journey, I am currently pursuing a master's degree in electrical engineering at Sharif University. Under the guidance of [Dr. Ali Ghazizadeh](https://www.ghazizadehlab.org/), my master's thesis focuses on vocal perception in zebra finches, further deepening my understanding of these incredible creatures.
 
 My current research focus centers on understanding the neural mechanisms that enable zebra finches to perceive vocalizations amidst background noise. Specifically, we are studying the Distance Call, a crucial vocalization used by zebra finches for survival when they cannot visually locate each other but can hear one another. In addition to conducting electrophysiology recordings, we complement our research with behavioral experiments to gain further insights into this phenomenon.
 
