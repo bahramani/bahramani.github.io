@@ -8,7 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm an electrical engineering masters student at Sharif University.
+Welcome to my academic website! I'm a 24-year-old passionate student with a deep fascination for neuroscience. Currently, I’m a neuroscience researcher at Birds’ Lab in the Institute For Research In Fundamental Sciences (IPM), I’m also an Electrical Engineering Master’s student at Sharif University.
 
-I'm working on my website
-I work with [Gha](https://www.ghazizadehlab.org/) on the 
+My journey began during the later years of my bachelor's degree in electrical engineering at K. N. Toosi University of Technology when I was captivated by the intricacies of the human brain. Under the guidance of Dr. Amir M. Sodagar, I started a project that focused on solving the MNIST dataset using Spiking Neural Networks. This experience sparked my interest in computational and systems neuroscience, leading me to join the birds' lab at IPM after completing my bachelor's degree.
+
+In the Birds' Lab, I had the privilege of immersing myself in the captivating world of avian research. I found myself enthralled by the remarkable abilities of zebra finches in vocal learning and communication. Additionally, I gained invaluable hands-on experience in electrophysiology, mastering surgical techniques and recording single-unit activity. To this day, I am proud to contribute to the ongoing research efforts of the Birds' Lab.
+
+Continuing my academic journey, I am currently pursuing a master's degree in electrical engineering at Sharif University. Under the guidance of Dr. Ali Ghazizadeh, my master's thesis focuses on vocal perception in zebra finches, further deepening my understanding of these incredible creatures.
+
+My current research focus centers on understanding the neural mechanisms that enable zebra finches to perceive vocalizations amidst background noise. Specifically, we are studying the Distance Call, a crucial vocalization used by zebra finches for survival when they cannot visually locate each other but can hear one another. In addition to conducting electrophysiology recordings, we complement our research with behavioral experiments to gain further insights into this phenomenon.
+
+My journey in the Birds' Lab, combined with the courses I have undertaken during my academic tenure, has equipped me with exceptional skills in analyzing neural data using MATLAB and Python. With a particular focus on spiking data and local field potentials (LFP), I have honed my abilities to extract meaningful insights from complex datasets. This expertise has not only been instrumental in my avian research but also reflects my broader passion for investigating diverse datasets. I find great satisfaction in delving into intricate neural data, uncovering patterns, and drawing meaningful conclusions that contribute to our understanding of the brain.
+
+Beyond my passion for neuroscience, I hold a deep appreciation for the field of artificial intelligence (AI). I firmly believe that machine learning tools not only aid in my research but also have the potential to enhance our understanding of the brain. The synergy between AI and neuroscience offers exciting prospects for groundbreaking discoveries.
+
+Moreover, I firmly believe that a holistic approach is essential in unraveling the complexities of the mind. Philosophy, in particular, holds a special place in my heart, as I believe that without knowledge in humanities and philosophy, true comprehension of the brain remains elusive.
+
+In essence, my ultimate goal centers around unraveling the complex workings of the mind and brain. By synergizing philosophy, neuroscience, and AI, I strive to contribute to our collective understanding of cognition and consciousness. With unwavering curiosity and a deep-seated passion for knowledge, I am committed to pushing the boundaries of scientific exploration.
+
+Thank you for visiting my website, and I invite you to explore further to learn more about my research and academic endeavors.
