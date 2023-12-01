@@ -15,10 +15,11 @@ You'll find the presentation slides for each session and some of their homework 
 
 
 
-| Lec#                  | Date             | Objectives                                                   | Materials                                                             |
-| --------------------- | ---------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------|
-| Introduction          | 11th Aban 1402   |                                                              | Slides                                                                |
-| Introduction          | 11th Aban 1402   |                                                              | Slides                                                                |
-| Introduction          | 11th Aban 1402   |                                                              | Slides                                                                |
-| Introduction          | 11th Aban 1402   |                                                              | Slides                                                                |
-| Introduction          | 11th Aban 1402   |                                                              | Slides                                                                |
+| Lec#  | Date             | Objectives                                                   | Materials        |
+| ----- | ---------------- | ------------------------------------------------------------ | ---------------- |
+| 1     | 11th Aban 1402   |                                                              | Slides           |
+| 2     | 18th Aban 1402   |                                                              | Slides           |
+| 3     | 25th Aban 1402   |                                                              | Slides           |
+| 4     | 2nd Azar 1402    |                                                              | Slides           |
+| 5     | 9th Azar 1402    |                                                              | Slides, Homework |
+
