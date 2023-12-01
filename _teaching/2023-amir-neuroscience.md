@@ -22,5 +22,5 @@ You'll find the presentation slides for each session and some of their homework 
 | 2     | 18th Aban 1402   | What is Neuroscience?, Levels of Analysis in Neuroscience, Relating Behavior to Neural Activity | Slides           |
 | 3     | 25th Aban 1402   | Nerve Cells, Glias, Neurons, and their Different Types                                          | Slides           |
 | 4     | 2nd Azar 1402    | Axon Properties, Ion Channels, Action Potentials                                                | Slides           |
-| 5     | 9th Azar 1402    | Spike Generation and Conduction, Role of Myelin                                                 | [Slides](https://docs.google.com/presentation/d/11hvHUGT7aCYlg2zuG1QTYNIr6LVOtSZ-/edit?usp=sharing&ouid=116712630660071558009&rtpof=true&sd=true), [Homework](https://docs.google.com/forms/d/e/1FAIpQLSeJYBVJ--0n8TgnKlkHpf24tI52DdK4365WJveC0hzAtnpr-g/viewform?usp=sf_link) |
+| 5     | 9th Azar 1402    | Spike Generation and Conduction, Role of Myelin                                                 | [Slides](https://drive.google.com/file/d/14l2mF485X9H0DEIESko2QTaZEVAGLLro/view?usp=drive_link), [Homework](https://docs.google.com/forms/d/e/1FAIpQLSeJYBVJ--0n8TgnKlkHpf24tI52DdK4365WJveC0hzAtnpr-g/viewform?usp=sf_link) |
 
