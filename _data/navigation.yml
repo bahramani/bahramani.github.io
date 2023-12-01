@@ -2,7 +2,7 @@
 main:
     
   - title: "About Me"
-    url: /cv/
+    url: /about-me/
     
   - title: "CV"
     url: /files/Amirreza%20Bahramani%20CV.pdf
@@ -18,6 +18,3 @@ main:
     
   - title: "Publications"
     url: /publications/  
-           
-  - title: "Book Review"
-    url: /books/ 
