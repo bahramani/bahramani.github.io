@@ -14,4 +14,4 @@ Currently, I’m a neuroscience researcher at Birds’ Lab in the Institute For 
 Here you can get to know me and see some of my works.
 Also, check out my [Telegram Channel](https://t.me/bahramani_ch).
 
-Thank you for visiting my website, and I invite you to explore further to learn more about my research and academic endeavors.
+Thank you for taking the time to explore my website. If you have any questions or would like to connect, please don't hesitate to reach out to me via email. I appreciate your visit!
