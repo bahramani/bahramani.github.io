@@ -16,4 +16,4 @@ Download the video file from here.
 
 This is a very short version.
 
-![Poster](https://github.com/bahramani/bahramani.github.io/blob/master/images/neuromorphicKNTU.jpg)
+![Poster](/images/neuromorphicKNTU.jpg)
