@@ -2,7 +2,7 @@
 main:
     
   - title: "About Me"
-    url: /about-me/about.md/
+    url: /cv/
     
   - title: "CV"
     url: /files/Amirreza%20Bahramani%20CV.pdf
