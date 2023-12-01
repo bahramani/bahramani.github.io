@@ -6,7 +6,6 @@ excerpt: ''
 date: 2022-02-01
 venue: ''
 paperurl: 'https://github.com/bahramani/bahramani.github.io/blob/master/files/Bahramani%20Bachelor%20Thesis.pdf'
-citation: ''
 ---
 This is my bachelor's thesis.
 [Download thesis here](https://github.com/bahramani/bahramani.github.io/blob/master/files/Bahramani%20Bachelor%20Thesis.pdf)https://github.com/bahramani/bahramani.github.io/blob/master/files/Bahramani%20Bachelor%20Thesis.pdf
