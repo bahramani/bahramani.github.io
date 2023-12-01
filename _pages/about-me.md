@@ -7,7 +7,7 @@ redirect_from:
   - /about-me
 ---
 
-My journey began during the later years of my bachelor's degree in electrical engineering at K. N. Toosi University of Technology when I was captivated by the intricacies of the human brain. Under the guidance of Dr. Amir M. Sodagar, I started a project that focused on solving the MNIST dataset using Spiking Neural Networks. This experience sparked my interest in computational and systems neuroscience, leading me to join the birds' lab at IPM after completing my bachelor's degree.
+My journey began during the later years of my bachelor's degree in electrical engineering at K. N. Toosi University of Technology when I was captivated by the intricacies of the human brain. Under the guidance of [Dr. Amir M. Sodagar](https://scholar.google.com/citations?user=enZrLoMAAAAJ&hl=en), I started a project that focused on solving the MNIST dataset using Spiking Neural Networks. This experience sparked my interest in computational and systems neuroscience, leading me to join the birds' lab at IPM after completing my bachelor's degree.
 
 In the Birds' Lab, I had the privilege of immersing myself in the captivating world of avian research. I found myself enthralled by the remarkable abilities of zebra finches in vocal learning and communication. Additionally, I gained invaluable hands-on experience in electrophysiology, mastering surgical techniques and recording single-unit activity. To this day, I am proud to contribute to the ongoing research efforts of the Birds' Lab.
 
