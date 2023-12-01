@@ -3,7 +3,7 @@ title: "Introduction to Neuromorphic Computing"
 collection: talks
 type: "Talk"
 permalink: /talks/2021_neuromorphicKNTU
-venue: "K. N. Toosi University of Technology, Department of Electrical Engineering"
+venue: "Department of Electrical Engineering, K. N. Toosi University of Technology"
 date: 2021-12-07
 location: "Tehran, Iran"
 ---
