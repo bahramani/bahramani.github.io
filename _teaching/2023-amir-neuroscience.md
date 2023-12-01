@@ -4,7 +4,7 @@ collection: teaching
 type: "School Course"
 permalink: /teaching/2023-amir-neuroscience
 venue: "Amir High School"
-date: 2023-2024
+date: 2023
 location: "Tehran, Iran"
 ---
 
