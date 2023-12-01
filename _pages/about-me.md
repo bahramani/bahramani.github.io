@@ -1,11 +1,10 @@
 ---
-permalink: /about-me
+layout: archive
 title: "About Me"
-excerpt: "About me"
+permalink: /about-me/
 author_profile: true
-redirect_from: 
-  - /about-me/
-  - /about.html
+redirect_from:
+  - /about-me
 ---
 
 My journey began during the later years of my bachelor's degree in electrical engineering at K. N. Toosi University of Technology when I was captivated by the intricacies of the human brain. Under the guidance of Dr. Amir M. Sodagar, I started a project that focused on solving the MNIST dataset using Spiking Neural Networks. This experience sparked my interest in computational and systems neuroscience, leading me to join the birds' lab at IPM after completing my bachelor's degree.
