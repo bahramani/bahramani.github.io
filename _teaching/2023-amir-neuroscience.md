@@ -23,4 +23,5 @@ You'll find the presentation slides for each session and some of their homework 
 | 3     | 25th Aban 1402   | Nerve Cells, Glias, Neurons, and their Different Types                                          | Slides           |
 | 4     | 2nd Azar 1402    | Axon Properties, Ion Channels, Action Potentials                                                | Slides           |
 | 5     | 9th Azar 1402    | Spike Generation and Conduction, Role of Myelin                                                 | [Slides](https://drive.google.com/file/d/14l2mF485X9H0DEIESko2QTaZEVAGLLro/view?usp=sharing), [Homework](https://docs.google.com/forms/d/e/1FAIpQLSeJYBVJ--0n8TgnKlkHpf24tI52DdK4365WJveC0hzAtnpr-g/viewform?usp=sf_link) |
+| 6     | 23th Azar 1402   | Synapses, Examples of Neural Circuits                                                           | [Slides](https://drive.google.com/file/d/13lGkS9WyEL97nnPCZBpv5bqJKnxuRqTS/view?usp=sharing), [Homework](https://docs.google.com/forms/d/e/1FAIpQLSdDMn-kL2kvUzeIKP9bMoaF4cAa5l5BkGPd_wumP5AVRVYeBw/viewform?usp=sf_link) |
 
