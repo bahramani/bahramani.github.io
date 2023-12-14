@@ -13,5 +13,5 @@ currently underway at Sharif University for students who were in the process of 
 
 [Download the slides from here.](https://drive.google.com/file/d/1MbxD95KIvEqTM5GmOmtmqlgcE_5x7h0v/view?usp=sharing)
 
-[Download the video file from here.](https://t.me/EE_intro/246)
+[Watch the video from here.](https://youtu.be/-SSEIJ3yijI?si=gl0bgmr64artvLfM)
 
