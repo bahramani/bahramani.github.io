@@ -1,5 +1,5 @@
 ---
-title: "Neuroscience at Sharif"
+title: "Neuroscience at Sharif University"
 collection: talks
 type: "Talk"
 permalink: /talks/2023_neuroSharif
