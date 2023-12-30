@@ -12,3 +12,6 @@ This is a poster based on what I've done for my thesis in the first year of my m
 The poster was selected as one of the four best posters among electrical engineering master's students at Sharif University in 2023.
 
 [Download high-quality paper from here](/files/Bahramani-Poster-2023.pdf)
+
+
+![](/images/profile.png)
