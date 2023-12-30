@@ -14,4 +14,4 @@ The poster was selected as one of the four best posters among electrical enginee
 [Download high-quality paper from here](/files/Bahramani-Poster-2023.pdf)
 
 
-![](/images/profile.png)
+![](/images/Bahramani-Poster-2023.jpg)
