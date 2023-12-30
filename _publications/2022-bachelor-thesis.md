@@ -11,4 +11,4 @@ This is my bachelor's thesis in _Persian_. It's on designing and implementing a 
 
 It was submitted as a thesis in partial fulfillment of the requirements for an Electrical Engineering bachelor’s degree at K. N. Toosi University of Technology under the supervision of Dr. Amir M. Sodagar.
 
-[Download the thesis from here](/files/Bahramani%20Bachelor%20Thesis.pdf)
+[Download the thesis (in Persian) from here](/files/Bahramani%20Bachelor%20Thesis.pdf)
