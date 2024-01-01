@@ -1,5 +1,5 @@
 ---
-title: "Poster on my Master's Thesis (2023)"
+title: "Poster on My Master's Thesis (2023)"
 collection: publications
 permalink: /publication/2023-best-poster
 excerpt: ''
